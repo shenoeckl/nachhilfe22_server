@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d432b894-b930-4082-8a7b-88ff460d776f" name="HETZNER" url="http://nachhilfe.s1910456013.student.kwmhgb.at/">
+        <fileTransfer rootFolder="/usr/home/sstud350/public_html/nachhilfe22/bookstoreServer" accessType="SFTP" host="dedi50.your-server.de" port="222" sshConfigId="034b0999-d0c7-4751-b816-a1b69102ee35" sshConfig="sstud350@dedi50.your-server.de:222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
